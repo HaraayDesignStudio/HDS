@@ -51,7 +51,7 @@ function Footer() {
         </div>
       </div>
       <p className={styles.copy}>
-        © 2024 All Rights Reserved Haraay Design Studio LLP
+        © 2024 All rights Reserved Haraay Design Studio LLP
       </p>
     </div>
   );
